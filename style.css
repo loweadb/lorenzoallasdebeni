@@ -244,14 +244,7 @@ nav ul li a {
 
 
 
-.conteiner a:hover {
-	background-color: white;
-	background-blend-mode: none;
-	background-size: 100%;
-	transition: all ease-in-out 300ms;
-	cursor: crosshair;	
 
-} 
 
 
 
@@ -452,3 +445,11 @@ hr {
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
     color: #999;
 }
+.conteiner a:hover {
+	background-color: white;
+	background-blend-mode: none;
+	background-size: 100%;
+	transition: all ease-in-out 300ms;
+	cursor: crosshair;	
+
+} 
